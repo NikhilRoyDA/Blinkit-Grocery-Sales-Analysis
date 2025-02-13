@@ -29,6 +29,10 @@ The project addresses the following key business questions:
 7.	All Metrics by Outlet Type
 -	How do different outlet types (Supermarket Type 1, Type 2, Type 3, and Grocery Stores) perform in terms of total sales, average sales, number of items sold, and customer ratings?
 
+## Dashboard -
+![Blinkit Grocery Data Analysis Dashboard](https://github.com/user-attachments/assets/a839d1b4-aa57-4b8d-9c8c-3b28bcf2356f)
+
+
 ## Project Insights
 1.	Total Sales & Revenue: The total revenue across all outlets is $1.2M, with an average sale of $141 per transaction.
 
