@@ -5,7 +5,7 @@ The objective of this project is to analyze Blinkit’s grocery sales data using
 
 ## Questions (KPIs)
 The project addresses the following key business questions:
-1.	Total Sales by Fat Content
+1.	Total Sales by Fat Content:
 How does fat content (low fat vs. regular) impact total sales?
 How do average sales, number of items sold, and customer ratings vary based on fat content?
 2.	Total Sales by Item Type
