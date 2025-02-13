@@ -60,6 +60,17 @@ This Excel-based grocery sales analysis provides a data-driven approach to under
 - Enhance outlet performance monitoring by evaluating older vs. newer stores.
 The use of Excel formulas, pivot tables, and charts has helped in visualizing data effectively, making it easier for business stakeholders to understand and make strategic decisions.
 
+## Technical Details & Skills Used
+1. Tools & Technologies: Excel – Data Cleaning, Pivot Tables, Charts, Conditional Formatting, Formulas
+2. Key Skills Demonstrated:
+- Data Visualization using Excel Charts
+- KPI Analysis & Business Intelligence
+- Pivot Table Reporting
+- Sales & Market Trend Analysis
+- Data Cleaning & Preprocessing
+- Excel Formulas for Calculations
+
+
 
 
 
