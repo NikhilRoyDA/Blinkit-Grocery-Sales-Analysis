@@ -29,7 +29,7 @@ The project addresses the following key business questions:
 7.	All Metrics by Outlet Type-
 -	How do different outlet types (Supermarket Type 1, Type 2, Type 3, and Grocery Stores) perform in terms of total sales, average sales, number of items sold, and customer ratings?
 
-## Dashboard -
+## Dashboard - <a href="https://github.com/NikhilRoyDA/Blinkit-Grocery-Sales-Analysis/blob/main/Blinkit%20Grocery%20Data%20Analysis%20Dashboard.png">View Dashboard</a>
 ![Blinkit Grocery Data Analysis Dashboard](https://github.com/user-attachments/assets/a839d1b4-aa57-4b8d-9c8c-3b28bcf2356f)
 
 
