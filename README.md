@@ -5,3 +5,10 @@ The objective of this project is to analyze Blinkit’s grocery sales data using
 
 ## Dataset used
 - <a href="https://github.com/NikhilRoyDA/Blinkit-Grocery-Sales-Analysis/blob/main/Blinkit%20Grocery%20Data%20Analysis.xlsx">Datset</a>
+
+## Questions (KPIs)
+The project addresses the following key business questions:
+1.	Total Sales by Fat Content
+-	How does fat content (low fat vs. regular) impact total sales?
+-	How do average sales, number of items sold, and customer ratings vary based on fat content?
+
