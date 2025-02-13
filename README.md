@@ -29,24 +29,26 @@ The project addresses the following key business questions:
 7.	All Metrics by Outlet Type
 -	How do different outlet types (Supermarket Type 1, Type 2, Type 3, and Grocery Stores) perform in terms of total sales, average sales, number of items sold, and customer ratings?
 
-## Project Insights
-•	Total Sales & Revenue: The total revenue across all outlets is $1.2M, with an average sale of $141 per transaction.
-•	Best-Selling Product Categories:
+##Project Insights
+1.	Total Sales & Revenue: The total revenue across all outlets is $1.2M, with an average sale of $141 per transaction.
+
+2.	Best-Selling Product Categories:
 -	Fruits & Vegetables ($178.1K)
 -	Snack Foods ($175.4K)
 -	Household Items ($136K)
-•	Fat Content Sales Comparison: Regular fat products generate higher sales ($776.3K) than low-fat products ($425.4K), suggesting customer preference for regular-fat items.
-•	Outlet Size Performance:
+3.	Fat Content Sales Comparison: Regular fat products generate higher sales ($776.3K) than low-fat products ($425.4K), suggesting customer preference for regular-fat items.
+
+4.	Outlet Size Performance:
 -	Large outlets contribute 42% of total sales.
 -	Medium-sized outlets contribute 37%.
 -	Small outlets contribute 21%, indicating that larger stores generate higher revenue.
-•	Outlet Location Analysis:
+5.	Outlet Location Analysis:
 -	Tier 3 locations generate the highest sales ($472.1K), followed by Tier 2 ($393.2K) and Tier 1 ($336.4K).
 -	This indicates a strong customer base in Tier 3 cities.
-•	Outlet Type Performance:
+6.	Outlet Type Performance:
 -	Supermarket Type 1 generates the highest sales ($787.5K).
 -	Grocery stores have the highest number of items sold (1,083 items) despite lower total sales ($151.9K).
-•	Sales Trend Over Time:
+7.	Sales Trend Over Time:
 -	The best-performing year was 2018, with total sales of $204.5K.
 -	After 2018, sales slightly declined but remained stable from 2019-2022.
 
