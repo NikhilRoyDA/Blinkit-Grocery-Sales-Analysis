@@ -1,12 +1,12 @@
-# Blinkit-Grocery-Sales-Data-Analysis
+# Blinkit-Grocery-Sales-Data-Analysis (Dashboard creation using MS Excel)
 
-## Project Objective
+## Project Objective -
 The objective of this project is to analyze Blinkit’s grocery sales data using Excel and provide valuable insights into sales performance, customer preferences, and outlet efficiency. The analysis focuses on identifying trends in total sales, average sales, number of items sold, and customer ratings across different outlet types, locations, and product categories. The entire analysis and visual representation were created using Excel features such as pivot tables, charts, formulas, and conditional formatting.
 
-## Dataset used
+## Dataset used -
 - <a href="https://github.com/NikhilRoyDA/Blinkit-Grocery-Sales-Analysis/blob/main/Blinkit%20Grocery%20Data%20Analysis.xlsx">Datset</a>
 
-## Questions (KPIs)
+## Questions (KPIs) -
 The project addresses the following key business questions:
 1.	Total Sales by Fat Content
 -	How does fat content (low fat vs. regular) impact total sales?
@@ -33,7 +33,7 @@ The project addresses the following key business questions:
 ![Blinkit Grocery Data Analysis Dashboard](https://github.com/user-attachments/assets/a839d1b4-aa57-4b8d-9c8c-3b28bcf2356f)
 
 
-## Project Insights
+## Project Insights -
 1.	Total Sales & Revenue: The total revenue across all outlets is $1.2M, with an average sale of $141 per transaction.
 
 2.	Best-Selling Product Categories:
@@ -56,15 +56,7 @@ The project addresses the following key business questions:
 -	The best-performing year was 2018, with total sales of $204.5K.
 -	After 2018, sales slightly declined but remained stable from 2019-2022.
 
-## Final Conclusion
-This Excel-based grocery sales analysis provides a data-driven approach to understanding sales performance, customer preferences, and outlet efficiency. The insights can be used to:
--	Optimize product inventory by focusing on high-selling categories.
-- Expand larger outlets in Tier 3 locations to boost sales.
-- Improve marketing strategies for low-fat products, as they have lower sales than regular-fat items.
-- Enhance outlet performance monitoring by evaluating older vs. newer stores.
-The use of Excel formulas, pivot tables, and charts has helped in visualizing data effectively, making it easier for business stakeholders to understand and make strategic decisions.
-
-## Technical Details & Skills Used
+## Technical Details & Skills Used -
 1. Tools & Technologies: Excel – Data Cleaning, Pivot Tables, Charts, Conditional Formatting, Formulas.
 
 2. Key Skills Demonstrated:
@@ -74,6 +66,14 @@ The use of Excel formulas, pivot tables, and charts has helped in visualizing da
 - Sales & Market Trend Analysis
 - Data Cleaning & Preprocessing
 - Excel Formulas for Calculations
+
+## Final Conclusion -
+This Excel-based grocery sales analysis provides a data-driven approach to understanding sales performance, customer preferences, and outlet efficiency. The insights can be used to:
+-	Optimize product inventory by focusing on high-selling categories.
+- Expand larger outlets in Tier 3 locations to boost sales.
+- Improve marketing strategies for low-fat products, as they have lower sales than regular-fat items.
+- Enhance outlet performance monitoring by evaluating older vs. newer stores.
+The use of Excel formulas, pivot tables, and charts has helped in visualizing data effectively, making it easier for business stakeholders to understand and make strategic decisions.
 
 
 
